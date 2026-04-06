@@ -115,6 +115,7 @@ operational-workforce-dashboard/
 ## 📌 Notes
 
 This project uses simulated data for demonstration purposes and does not contain sensitive or real company information.
+https://app.powerbi.com/groups/me/reports/093ebc87-7ca3-4795-8dde-617493cdf4fb?ctid=c06fb559-1b68-4b84-a14f-47d0d837a5ab&pbi_source=linkShare
 
 ---
 
